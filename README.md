@@ -1,3 +1,3 @@
 # Gator AVL
 
-Under Construction
+<img src="functionalitygatoravl.png" alt="Functionality">
